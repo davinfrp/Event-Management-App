@@ -19,7 +19,8 @@ Users can add an event and then required to fill information related to the even
 ## Notifications
 Each time a user add, update, or delete an event. A notification will be sent in accordance to the action that was done by the user. A scheduled notification will also be sent if the date and time match an event date and time.
 
-![image](https://github.com/user-attachments/assets/b07f651d-0a15-4657-9d91-9b0114a82ac4) ![image](https://github.com/user-attachments/assets/cbcc1b6e-93d2-4794-b633-8e980f2c54aa) ![image](https://github.com/user-attachments/assets/2c532bc3-9a6f-4b03-bc3e-095d5fe458a2)
+![image](https://github.com/user-attachments/assets/b07f651d-0a15-4657-9d91-9b0114a82ac4) ![image](https://github.com/user-attachments/assets/cbcc1b6e-93d2-4794-b633-8e980f2c54aa) ![image](https://github.com/user-attachments/assets/2c532bc3-9a6f-4b03-bc3e-095d5fe458a2) ![image](https://github.com/user-attachments/assets/f795da96-c246-444a-a346-f2debda41453)
+
 
 ## Firebase Database and Authentication
 
