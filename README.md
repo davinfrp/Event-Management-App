@@ -21,4 +21,9 @@ Each time a user add, update, or delete an event. A notification will be sent in
 
 ![image](https://github.com/user-attachments/assets/b07f651d-0a15-4657-9d91-9b0114a82ac4) ![image](https://github.com/user-attachments/assets/cbcc1b6e-93d2-4794-b633-8e980f2c54aa) ![image](https://github.com/user-attachments/assets/2c532bc3-9a6f-4b03-bc3e-095d5fe458a2)
 
+## Firebase Database and Authentication
+
+![image](https://github.com/user-attachments/assets/062472b6-3856-430e-adaf-12f5c83e7cfa)
+
+![image](https://github.com/user-attachments/assets/cda069ae-e447-4c65-bb59-75d844db73bb)
 
